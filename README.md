@@ -13,7 +13,6 @@ Most of my recent work is in private repos. I've written up those projects, with
 - [GenAI Safety Companion](https://ashaypanchal.vercel.app/projects/genai-safety-companion): Tableau Data Dev Hackathon project with Bedrock, encrypted journaling, and AI-scored risk analysis
 - [AI Image & Video Detection](https://ashaypanchal.vercel.app/projects/ai-image-video-detection): CNN and Vision Transformer detectors at 92% accuracy
 - [Vision Intelligence for FoodTech](https://ashaypanchal.vercel.app/projects/vision-intelligence-foodtech): YOLOv5 on AWS Lambda for seat occupancy, 95% accuracy
-- [Enterprise Inventory & Supply Chain](https://ashaypanchal.vercel.app/projects/enterprise-inventory-supply-chain): Spring Boot and PostgreSQL, 50,000+ historical artifacts
 
 **Research:** [Deep Neural Model for Automated Sleep Staging System using Single-Channel EEG Signal](https://link.springer.com/chapter/10.1007/978-981-19-6525-8_6) (Springer), 91.12% test accuracy. Code: [SleepStagingAnalysis](https://github.com/Ashay1301/SleepStagingAnalysis).
 
